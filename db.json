@@ -99,6 +99,16 @@
       "status": "reading",
       "progress": 220,
       "totalPages": 412
+    },
+    {
+      "id": "1755232569004",
+      "title": "Amazon is evil",
+      "author": "Tapha Njie",
+      "totalPages": 207,
+      "year": 2025,
+      "genre": "Unknown",
+      "status": "wantToRead",
+      "progress": 0
     }
   ]
 }
