@@ -109,6 +109,16 @@
       "genre": "Unknown",
       "status": "wantToRead",
       "progress": 0
+    },
+    {
+      "id": "1755552626918",
+      "title": "Jangel Pular",
+      "author": "The bobos",
+      "totalPages": 500,
+      "year": 2025,
+      "genre": "Unknown",
+      "status": "wantToRead",
+      "progress": 0
     }
   ]
 }
